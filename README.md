@@ -1,11 +1,11 @@
-<h1 align="center">Dark Matter</h1>
+<h1 align="center">V4GuyFawkes</h1>
 <p align="center"><i>Behind the mask, inside the wire.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Base-North%20Texas-0A66C2?style=flat-square" alt="Base: North Texas" />
   <img src="https://img.shields.io/badge/Focus-AI%20Automation-6E40C9?style=flat-square" alt="Focus: AI Automation" />
   <img src="https://img.shields.io/badge/Budget-%240-2EA44F?style=flat-square" alt="Budget: $0" />
-  <img src="https://komarev.com/ghpvc/?username=freddiereinwald&style=flat-square&color=555555&label=Profile%20views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=V4GuyFawkes&style=flat-square&color=555555&label=Profile%20views" alt="Profile views" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Operator and builder out of North Texas. I build the AI agents, automations, and
 
 ### `> featured`
 
-- [**bloggerMCPserver**](https://github.com/freddiereinwald/bloggerMCPserver) — FastMCP Python service that makes Blogger posts searchable by AI research tools. Dockerized, deployed with GitHub Actions.
+- [**bloggerMCPserver**](https://github.com/V4GuyFawkes/bloggerMCPserver) — FastMCP Python service that makes Blogger posts searchable by AI research tools. Dockerized, deployed with GitHub Actions.
 
 ### `> stack`
 
